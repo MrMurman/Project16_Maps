@@ -13,6 +13,8 @@
 		6FF97AEB26B957F4009D7228 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6FF97AE926B957F4009D7228 /* Main.storyboard */; };
 		6FF97AED26B957F5009D7228 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6FF97AEC26B957F5009D7228 /* Assets.xcassets */; };
 		6FF97AF026B957F6009D7228 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6FF97AEE26B957F6009D7228 /* LaunchScreen.storyboard */; };
+		6FF97AF826B95ABB009D7228 /* Capital.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FF97AF726B95ABB009D7228 /* Capital.swift */; };
+		6FF97AFA26B96E3E009D7228 /* SafariViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FF97AF926B96E3E009D7228 /* SafariViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		6FF97AEC26B957F5009D7228 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6FF97AEF26B957F6009D7228 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6FF97AF126B957F6009D7228 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6FF97AF726B95ABB009D7228 /* Capital.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Capital.swift; sourceTree = "<group>"; };
+		6FF97AF926B96E3E009D7228 /* SafariViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				6FF97AE326B957F4009D7228 /* AppDelegate.swift */,
 				6FF97AE526B957F4009D7228 /* SceneDelegate.swift */,
 				6FF97AE726B957F4009D7228 /* ViewController.swift */,
+				6FF97AF926B96E3E009D7228 /* SafariViewController.swift */,
+				6FF97AF726B95ABB009D7228 /* Capital.swift */,
 				6FF97AE926B957F4009D7228 /* Main.storyboard */,
 				6FF97AEC26B957F5009D7228 /* Assets.xcassets */,
 				6FF97AEE26B957F6009D7228 /* LaunchScreen.storyboard */,
@@ -140,6 +146,8 @@
 			files = (
 				6FF97AE826B957F4009D7228 /* ViewController.swift in Sources */,
 				6FF97AE426B957F4009D7228 /* AppDelegate.swift in Sources */,
+				6FF97AFA26B96E3E009D7228 /* SafariViewController.swift in Sources */,
+				6FF97AF826B95ABB009D7228 /* Capital.swift in Sources */,
 				6FF97AE626B957F4009D7228 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
